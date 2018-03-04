@@ -25,7 +25,7 @@ We learnt how to deal with the Marquee API and the GDELT API within a short peri
 
 Always have good time management and do not invest too much time into a certain aspect of the project. Lots of technical skills including selenium scraping, API interactions, data cleaning, applying machine learning techniques to real-world data.
 
-## What's next for EffectOfGSIndicatorsAndSentimentAnalysisOnStockMarket
+## What's next
 
 To enhance the creditability of our investigation, we should work on getting data without the interpolation, such that we are not getting future data indirectly. This can be done by carefully selecting stocks that have maximal overlaps in trading days. We will try to help our undergraduate partner finish scraping data off twitter, as it will be immensely helpful to his possible endeavor in data science, This analysis can be repeated on multiple stocks and see if such predictions will also work. It will also be very interesting to investigate how to get back stock price from the GS indicators, such that we are actually predicting the future stock price from previous data. 
 
