@@ -4,8 +4,8 @@ A bit of sentiment analysis, and some machine learning, applied to the Goldman S
 
 ## Team Members
 
-+ Anand Lalwani
 + Matthew Huang
++ Anand Lalwani
 + Wenhao Li
 + Juan David Lizarazo
 
