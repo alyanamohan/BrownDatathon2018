@@ -4,6 +4,10 @@ A bit of sentiment analysis, and some machine learning, applied to the Goldman S
 
 ![GELDtones.png](https://raw.githubusercontent.com/matthew-hsr/BrownDatathon2018/master/Covariances.png)
 
+![Disney.png](https://raw.githubusercontent.com/matthew-hsr/BrownDatathon2018/master/Disney.png)
+
+![Seagate.png](https://raw.githubusercontent.com/matthew-hsr/BrownDatathon2018/master/Seagate.png)
+
 ## Team Members
 
 + Matthew Huang
