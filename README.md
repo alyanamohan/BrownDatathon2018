@@ -15,7 +15,7 @@ A bit of sentiment analysis, and some machine learning, applied to the Goldman S
 
 Stock market appeared to be random in the past. But only because the complexity of the world could not be factored into its analysis. Our hypothesis is that this is no longer the case and that using the [GDELT dataset](http://data.gdeltproject.org/) additional insight can be brought to bear the stock market's behaviour. Together with quantitative data from Goldman Sachs and easily accessible machine learning techniques, we hope to gain further insights into the stock market.
 
-![Training and Validation Error.png](https://raw.githubusercontent.com/matthew-hsr/BrownDatathon2018/master/TrainingAndValidationError-1.png)
+![Training and Validation Error.png](https://raw.githubusercontent.com/matthew-hsr/BrownDatathon2018/master/TrainingandValidationError.png)
 
 ## What it does
 
