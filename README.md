@@ -2,6 +2,8 @@
 
 A bit of sentiment analysis, and some machine learning, applied to the Goldman Sachs stock market indicators.
 
+![GELDtones.png](https://raw.githubusercontent.com/matthew-hsr/BrownDatathon2018/master/Covariances.png)
+
 ## Team Members
 
 + Matthew Huang
