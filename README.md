@@ -9,6 +9,9 @@ Stock market appeared to be random in the past. But only because the complexity 
 
 With the help of the GDELT Project, we did sentiment analysis on two hundred thousand news articles every day for three years. We also attempted to scrape tweets with selenium to gain insight into people's opinions towards a company, but have not succeeded yet due to time constraints. The Goldman Sachs data for all stocks was incorporated by using Principal Component Analysis to reduce its dimensions to manageable size. These data were then fed to a neural network to predict the future GS indicators.
 
+![GELDtones.png](https://raw.githubusercontent.com/matthew-hsr/BrownDatathon2018/blob/master/GELDtones.png)
+
+
 ## How we built it
 
 We wrote a script to search all posts mentioning a certain company (Disney in our case), however, due to time limitations, we have not yet been able to scrape data off tweeter. With GDELT project, it was super convenient to access huge amount of data and carry out sentiment analysis on news articles about a company. We then tried to look into the correlations of the data by building covariance matrix of the GS indicators. Using PCA to select out the most important linear combinations of variables, we finally fed the data from sentiment analysis and the GS indicators into a neural network to try to predict the future GS indicators. With extensive tweaking of hyperparameters, regularization and drop out, we were able to get satisfactory prediction with no significant overfitting.
