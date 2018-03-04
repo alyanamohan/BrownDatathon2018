@@ -11,6 +11,8 @@ With the help of the GDELT Project, we did sentiment analysis on two hundred tho
 
 ![GELDtones.png](https://raw.githubusercontent.com/matthew-hsr/BrownDatathon2018/master/GELDtones.png)
 
+![Training and Validation Error.png](https://raw.githubusercontent.com/matthew-hsr/BrownDatathon2018/master/Training and Validation Error.png)
+
 
 ## How we built it
 
