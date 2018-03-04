@@ -5,14 +5,13 @@ A little sentiment analysis, a little ML and GS indicators give ways to a little
 
 Stock market appeared to be random in the past. But only because the complexity of the world could not be factored into its analysis. Our hypothesis is that this is no longer the case. Now we can easily analyze hundreds of millions of news articles by leveraging the GDELT Project. Together with quantitative data from Goldman Sachs and easily accessible machine learning techniques, we can gain unique insights into the future stock market.
 
+![Training and Validation Error.png](https://raw.githubusercontent.com/matthew-hsr/BrownDatathon2018/master/TrainingAndValidationError.png)
+
 ## What it does
 
 With the help of the GDELT Project, we did sentiment analysis on two hundred thousand news articles every day for three years. We also attempted to scrape tweets with selenium to gain insight into people's opinions towards a company, but have not succeeded yet due to time constraints. The Goldman Sachs data for all stocks was incorporated by using Principal Component Analysis to reduce its dimensions to manageable size. These data were then fed to a neural network to predict the future GS indicators.
 
 ![GELDtones.png](https://raw.githubusercontent.com/matthew-hsr/BrownDatathon2018/master/GELDtones.png)
-
-![Training and Validation Error.png](https://raw.githubusercontent.com/matthew-hsr/BrownDatathon2018/master/TrainingAndValidationError.png)
-
 
 ## How we built it
 
